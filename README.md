@@ -1,16 +1,27 @@
-### Hi there 👋
+# Welcome!
 
-<!--
-**Malbathan/Malbathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
 
-Here are some ideas to get you started:
+## I'm Malbathan!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+
+I am a Dev. Full stack student!
+
+
+- 🌱 I’m currently learning front-end techniques in Javascript.
+- 🤝 I’m looking to collaborate on  learning projects.  
+
+ 
+
+## About me
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/Malbathan/)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( Lhttps://www.linkedin.com/in/malbathan-lima-52a3661ba/)
+
+
+
+- Thanks for visiting.
+
+- Enjoy it!! o/

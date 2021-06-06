@@ -23,7 +23,7 @@ I am a Dev. Full stack student!
   <img align="center" alt="Malba-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Malba-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Malba-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Malba-yoda" src="https://media1.tenor.com/images/c7b8f2bc0680e5223a84e228b88a8834/tenor.gif?itemid=19191140">
+  <img align="right" alt="Malba-yoda" src="https://tenor.com/view/bye-spider-man-swing-wave-hello-gif-15063866">
 </div>
 
 ## About me

@@ -23,7 +23,7 @@ I am a Dev. Full stack student!
   <img align="center" alt="Malba-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Malba-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Malba-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Malba-yoda" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fid%3D1303787417&psig=AOvVaw3lFXE7a2qDDEqgHGZdoo1t&ust=1623105703030000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCF6YqKhPECFQAAAAAdAAAAABAV">
+  <img align="right" alt="Malba-yoda" src="https://steamuserimages-a.akamaihd.net/ugc/936057154116226274/99FA16E3F682052FCB379A057EB954DD64D2F6DC/">
 </div>
 
 ## About me

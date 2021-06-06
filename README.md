@@ -21,7 +21,7 @@ I am a Dev. Full stack student!
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)](https://www.linkedin.com/in/malbathan-lima)
 
 
-
+![Snake animation](https://github.com/Malbathan/Malbathan/blob/output/github-contribution-grid-snake.svg)
 
 - Thanks for visiting.
 

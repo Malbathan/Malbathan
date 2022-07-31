@@ -10,7 +10,7 @@
 I am a Dev. Full stack student!
 
 
-- 🌱 I’m currently learning front-end techniques in Javascript.
+- 🌱 I’m currently act as a front-end engineer at SAMSUNG LATAM SHOP web sites.
 - 🤝 I’m looking to collaborate on  learning projects.  
 
  <div>

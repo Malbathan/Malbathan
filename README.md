@@ -7,7 +7,7 @@
 
  
 
-I am a Dev. Full stack student!
+I am a Full stack  Dev. !
 
 
 - 🌱 I’m currently act as a front-end engineer at SAMSUNG LATAM SHOP web sites.

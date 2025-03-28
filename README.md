@@ -10,7 +10,7 @@
 I am a Full stack  Dev. !
 
 
-- 🌱 I’m currently act as a front-end engineer at SAMSUNG LATAM SHOP web sites.
+- 🌱 I’m currently act as a front-end engineer at PagueMenos / Extrafarma web sites.
 - 🤝 I’m looking to collaborate on  learning projects.  
 
  <div>

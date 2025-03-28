@@ -1,17 +1,36 @@
 # Welcome!
 
+## 👋 Olá! Eu sou o Malbathan Lima
+
+Desenvolvedor Front-End com 4 anos de experiência construindo e evoluindo interfaces modernas, performáticas e acessíveis. Atuei em projetos de destaque para marcas como **Samsung LATAM**, **Electrolux**, **Bauducco**, **Urban Arts** e **Colormaq**.
+
+### 🚀 Tecnologias que trabalho no dia a dia:
+- React.js · TypeScript · VTEX IO · Next.js · Node.js
+- Styled-components · Tailwind CSS · Git · APIs REST
+- Integrações com plataformas VTEX, Firebase, e CMSs
+
+### 💼 Experiências:
+- Performa_IT (Paguemenos - Extrafarma - 2025 )
+- Dreaming Lab (2022–Atual)
+- Gauge / Stefanini (Bauducco - Colormaq - 2024)
+- WeDigi (VTEX projects – 2023)
+- Trinto (Samsung LATAM – 2022)
+- b8one (VTEX projects – 2022)
+- ENEXT (início da jornada – 2021)
+
+### 📌 Soft Skills:
+- Trabalho em equipe · Agilidade (Scrum/Kanban)
+- Alinhamento técnico com stakeholders
+- Foco em entrega de valor
+
+### 🌱 Em constante aprendizado e evolução.
+
+📫 Me chama pra conversar:
+[malbathanlima@gmail.com](mailto:malbathanlima@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/seu-perfil)  
+[GitHub](https://github.com/malbathanlima)
 
 
-
-## I'm Malbathan!!
-
- 
-
-I am a Full stack  Dev. !
-
-
-- 🌱 I’m currently act as a front-end engineer at PagueMenos / Extrafarma web sites.
-- 🤝 I’m looking to collaborate on  learning projects.  
 
  <div>
   <a href="https://github.com/malbathan">
